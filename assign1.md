@@ -1,8 +1,8 @@
 ### Problem 1
 **Write test cases for calculator of shipping**
 
-   1. Check the default prices by airplane for all the countries(0.1 kg and less)
-    2. Check if the volume option is considered for the right countries
+  -  1. Check the default prices by airplane for all the countries(0.1 kg and less)
+  -  2. Check if the volume option is considered for the right countries
     3. Check if it has the personal parsel options for the right countries
     4. Check if the price is increased correctly for each country
     5. Check if the price is decreased correctly for each country
